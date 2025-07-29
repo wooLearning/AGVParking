@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\Debug\AgvSimul.exe
+C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\Debug\AgvSimul.pdb
