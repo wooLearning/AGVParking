@@ -21,5 +21,8 @@
     <ClCompile Include="kmean.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lpa_notOptimizied.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
