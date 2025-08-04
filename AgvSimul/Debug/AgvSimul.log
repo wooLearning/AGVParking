@@ -1,4 +1,4 @@
 ﻿  test1.c
-C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\test1.c(598,1): warning C4090: 'initializing': different 'const' qualifiers
-C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\test1.c(1204,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\test1.c(521,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\test1.c(947,1): warning C4090: 'initializing': different 'const' qualifiers
   AgvSimul.vcxproj -> C:\Users\user\Desktop\LPA_PROJECT\PathFinder_Simul\AgvSimul\Debug\AgvSimul.exe
