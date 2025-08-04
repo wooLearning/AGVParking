@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="kmean.c" />
     <ClCompile Include="lpa_notOptimizied.c" />
     <ClCompile Include="test1.c" />
   </ItemGroup>
